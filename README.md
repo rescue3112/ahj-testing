@@ -1,3 +1,3 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/ol38adxjbwsueqe0?svg=true)](https://ci.appveyor.com/project/AlexWEBArt/ahj-organization-of-testing)
+[![Build status](https://ci.appveyor.com/api/projects/status/t2phcvsi10k4xt21/branch/master?svg=true)](https://ci.appveyor.com/project/rescue3112/ahj-testing-sp90k/branch/master)
 
-https://alexwebart.github.io/AHJ-Organization_of_testing/
+https://rescue3112.github.io/ahj-testing/
